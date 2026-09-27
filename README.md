@@ -27,4 +27,4 @@ Note: the load balancer is not free-tier. Destroy when finished.
 
 ## What I learned
 
-- (write your own observations here)
+- so far as of 9/27, I use Claude to help me however I am learning the general idea of everything, from creating main.tf file and adding the needed content. To creating an output and variables file and adding relevant content. Then having terraform run everything while it make sures the code stays idempotent. I also learnt how to push everything online to be made accessible and also load balancing to make sure traffic is managed well to maintain uptime. I need to learn next how to expand and create my code from scratch and also how to store remotely.
